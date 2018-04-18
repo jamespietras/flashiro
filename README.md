@@ -1,0 +1,3 @@
+# Flashiro
+
+Your productivity companion

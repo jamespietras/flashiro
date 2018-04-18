@@ -1,0 +1,22 @@
+## PACKAGES
+/node_modules
+
+## CONFIGURATION
+.env
+
+## PRODUCTION BUILD
+/build
+
+## LOGS
+*.log
+npm-debug.log*
+
+## RUNTIME DATA
+pids
+*.pid
+*.seed
+*.pid.lock
+
+## CACHE
+.DS_Store
+.npm
